@@ -14,6 +14,9 @@
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   },
   "dependencies": {
+   "faunadb": "^3.0.1",
+   
+   
     "bootstrap": "^4.5.2",
     "gatsby": "^2.24.67",
     "react": "^16.12.0",
